@@ -3,6 +3,8 @@
 
 The MLM is a distance-based supervised learning method. The learning phase consists of a linear regression model between distances taken from fixed points (reference points) in the input and output spaces. Despite its simplicity, MLM has achieved competitive performance against reference machine learning methods on both classification and regression tasks.
 
+This code consists of a simple Matlab implementation of the MLM and some of its variants.
+
  ## Using this API
 
  ```matlab
